@@ -27,7 +27,6 @@
 ## Usage example:
 ## x <- matrix(1:4, nrow=2, ncol=2)
 ## m <- makeCacheMatrix(x)
-
 makeCacheMatrix <- function(x = matrix()) {
   # Following the same format as the assignment example
   # Creating a makeCacheMatrix object will consist of
